@@ -1,2 +1,1 @@
-commit 4
-done
+conflict 1
