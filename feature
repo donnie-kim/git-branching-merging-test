@@ -1,2 +1,1 @@
-conflict 2
-done
+conflict 1
